@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Database1Model" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="Database1Entities" p1:LazyLoadingEnabled="true">
+    <EntitySet Name="Accounts" EntityType="Database1Model.Account" />
+    <EntitySet Name="AccountsBalances" EntityType="Database1Model.AccountsBalance" />
+    <EntitySet Name="Transactions" EntityType="Database1Model.Transaction" />
+    <AssociationSet Name="Transactions_Accounts" Association="Database1Model.Transactions_Accounts">
+      <End Role="Accounts" EntitySet="Accounts" />
+      <End Role="Transactions" EntitySet="Transactions" />
+    </AssociationSet>
+    <EntitySet Name="Reminders" EntityType="Database1Model.Reminder" />
+    <AssociationSet Name="Reminder_Accounts" Association="Database1Model.Reminder_Accounts">
+      <End Role="Account" EntitySet="Accounts" />
+      <End Role="Reminder" EntitySet="Reminders" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Account">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="BankName" Type="String" Nullable="false" MaxLength="100" Unicode="true" FixedLength="false" />
+    <Property Name="AcountNumber" Type="Int32" />
+    <Property Name="CardNumber" Type="String" MaxLength="100" Unicode="true" FixedLength="false" />
+    <NavigationProperty Name="Transactions" Relationship="Database1Model.Transactions_Accounts" FromRole="Accounts" ToRole="Transactions" />
+    <NavigationProperty Name="Reminders" Relationship="Database1Model.Reminder_Accounts" FromRole="Account" ToRole="Reminder" />
+  </EntityType>
+  <EntityType Name="AccountsBalance">
+    <Key>
+      <PropertyRef Name="AccountID" />
+      <PropertyRef Name="Date" />
+    </Key>
+    <Property Name="AccountID" Type="Int32" Nullable="false" />
+    <Property Name="Date" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="Balance" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Transaction">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="AccountID" Type="Int32" Nullable="false" />
+    <Property Name="Change" Type="String" Nullable="false" MaxLength="10" Unicode="true" FixedLength="false" />
+    <Property Name="Description" Type="String" MaxLength="100" Unicode="true" FixedLength="false" />
+    <Property Name="Date" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="Money" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Account" Relationship="Database1Model.Transactions_Accounts" FromRole="Transactions" ToRole="Accounts" />
+  </EntityType>
+  <Association Name="Transactions_Accounts">
+    <End Role="Accounts" Type="Database1Model.Account" Multiplicity="1" />
+    <End Role="Transactions" Type="Database1Model.Transaction" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Accounts">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Transactions">
+        <PropertyRef Name="AccountID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="Reminder">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Type="Int32" Name="ID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="DateTime" Name="DateEn" Nullable="false" Precision="3" />
+    <Property Type="String" Name="Details" Nullable="false" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Type="Int32" Name="AccountID" Nullable="false" />
+    <NavigationProperty Name="Account" Relationship="Database1Model.Reminder_Accounts" FromRole="Reminder" ToRole="Account" />
+  </EntityType>
+  <Association Name="Reminder_Accounts">
+    <End Type="Database1Model.Account" Role="Account" Multiplicity="1" />
+    <End Type="Database1Model.Reminder" Role="Reminder" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Account">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Reminder">
+        <PropertyRef Name="AccountID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

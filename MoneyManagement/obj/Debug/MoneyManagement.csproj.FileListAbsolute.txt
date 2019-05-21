@@ -1,0 +1,678 @@
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement\MoneyManagement\bin\Debug\MoneyManagement.exe.config
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.0.1\MoneyManagement\bin\Debug\MoneyManagement.exe.config
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.0.2\MoneyManagement\bin\Debug\MoneyManagement.exe.config
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.0.2\MoneyManagement\bin\Debug\Data\Database1.sdf
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.0.2\MoneyManagement\bin\Debug\MoneyManagement.exe
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.0.2\MoneyManagement\bin\Debug\MoneyManagement.pdb
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.0.2\MoneyManagement\obj\Debug\MoneyManagement.csprojResolveAssemblyReference.cache
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.0.2\MoneyManagement\obj\Debug\MainWindow.baml
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.0.2\MoneyManagement\obj\Debug\MainWindow.g.cs
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.0.2\MoneyManagement\obj\Debug\App.g.cs
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.0.2\MoneyManagement\obj\Debug\MoneyManagement_Content.g.cs
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.0.2\MoneyManagement\obj\Debug\MoneyManagement_MarkupCompile.cache
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.0.2\MoneyManagement\obj\Debug\MoneyManagement.g.resources
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.0.2\MoneyManagement\obj\Debug\MoneyManagement.Properties.Resources.resources
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.0.2\MoneyManagement\obj\Debug\MoneyManagement.csproj.GenerateResource.Cache
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.0.2\MoneyManagement\obj\Debug\MoneyManagement.exe
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.0.2\MoneyManagement\obj\Debug\MoneyManagement.pdb
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.0.3\MoneyManagement\bin\Debug\MoneyManagement.exe.config
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.0.3\MoneyManagement\obj\Debug\MoneyManagement.exe
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.0.3\MoneyManagement\obj\Debug\MoneyManagement.pdb
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.0.3\MoneyManagement\bin\Debug\Data\Database1.sdf
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.0.3\MoneyManagement\bin\Debug\MoneyManagement.exe
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.0.3\MoneyManagement\bin\Debug\MoneyManagement.pdb
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.0.3\MoneyManagement\obj\Debug\MoneyManagement.csprojResolveAssemblyReference.cache
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.0.3\MoneyManagement\obj\Debug\MainWindow.baml
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.0.3\MoneyManagement\obj\Debug\MainWindow.g.cs
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.0.3\MoneyManagement\obj\Debug\App.g.cs
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.0.3\MoneyManagement\obj\Debug\MoneyManagement_Content.g.cs
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.0.3\MoneyManagement\obj\Debug\MoneyManagement_MarkupCompile.cache
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.0.3\MoneyManagement\obj\Debug\MoneyManagement.g.resources
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.0.3\MoneyManagement\obj\Debug\MoneyManagement.Properties.Resources.resources
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.0.3\MoneyManagement\obj\Debug\MoneyManagement.csproj.GenerateResource.Cache
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.0.3\MoneyManagement\bin\Debug\system.windows.controls.datavisualization.toolkit.dll
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.0.3\MoneyManagement\bin\Debug\WPFToolkit.dll
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.0.3\MoneyManagement\bin\Debug\system.windows.controls.datavisualization.toolkit.pdb
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.0.3\MoneyManagement\bin\Debug\WPFToolkit.pdb
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.1.1\MoneyManagement\bin\Debug\MoneyManagement.exe.config
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.1.1\MoneyManagement\obj\Debug\MoneyManagement.exe
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.1.1\MoneyManagement\obj\Debug\MoneyManagement.pdb
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.1.1\MoneyManagement\bin\Debug\Database1.sdf
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.1.1\MoneyManagement\bin\Debug\Data\Database1.sdf
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.1.1\MoneyManagement\bin\Debug\MoneyManagement.exe
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.1.1\MoneyManagement\bin\Debug\MoneyManagement.pdb
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.1.1\MoneyManagement\bin\Debug\EntityFramework.dll
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.1.1\MoneyManagement\bin\Debug\system.windows.controls.datavisualization.toolkit.dll
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.1.1\MoneyManagement\bin\Debug\WPFToolkit.dll
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.1.1\MoneyManagement\bin\Debug\EntityFramework.xml
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.1.1\MoneyManagement\bin\Debug\system.windows.controls.datavisualization.toolkit.pdb
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.1.1\MoneyManagement\bin\Debug\WPFToolkit.pdb
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.1.1\MoneyManagement\obj\Debug\MoneyManagement.csprojResolveAssemblyReference.cache
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.1.1\MoneyManagement\obj\Debug\MainWindow.baml
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.1.1\MoneyManagement\obj\Debug\MainWindow.g.cs
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.1.1\MoneyManagement\obj\Debug\App.g.cs
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.1.1\MoneyManagement\obj\Debug\MoneyManagement_Content.g.cs
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.1.1\MoneyManagement\obj\Debug\MoneyManagement_MarkupCompile.cache
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.1.1\MoneyManagement\obj\Debug\MoneyManagement.g.resources
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.1.1\MoneyManagement\obj\Debug\MoneyManagement.Properties.Resources.resources
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.1.1\MoneyManagement\obj\Debug\MoneyManagement.csproj.GenerateResource.Cache
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.1.3\MoneyManagement\bin\Debug\MoneyManagement.exe.config
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.1.3\MoneyManagement\obj\Debug\MoneyManagement.exe
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.1.3\MoneyManagement\obj\Debug\MoneyManagement.pdb
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.1.3\MoneyManagement\obj\Debug\MoneyManagement.csprojResolveAssemblyReference.cache
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.1.3\MoneyManagement\obj\Debug\MainWindow.baml
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.1.3\MoneyManagement\obj\Debug\MainWindow.g.cs
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.1.3\MoneyManagement\obj\Debug\App.g.cs
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.1.3\MoneyManagement\obj\Debug\MoneyManagement_Content.g.cs
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.1.3\MoneyManagement\obj\Debug\MoneyManagement_MarkupCompile.cache
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.1.3\MoneyManagement\obj\Debug\MoneyManagement.g.resources
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.1.3\MoneyManagement\obj\Debug\MoneyManagement.Properties.Resources.resources
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.1.3\MoneyManagement\obj\Debug\MoneyManagement.csproj.GenerateResource.Cache
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.1.3\MoneyManagement\bin\Debug\Database1.sdf
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.1.3\MoneyManagement\bin\Debug\Data\Database1.sdf
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.1.3\MoneyManagement\bin\Debug\MoneyManagement.exe
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.1.3\MoneyManagement\bin\Debug\MoneyManagement.pdb
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.1.3\MoneyManagement\bin\Debug\EntityFramework.dll
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.1.3\MoneyManagement\bin\Debug\system.windows.controls.datavisualization.toolkit.dll
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.1.3\MoneyManagement\bin\Debug\WPFToolkit.dll
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.1.3\MoneyManagement\bin\Debug\EntityFramework.xml
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.1.3\MoneyManagement\bin\Debug\system.windows.controls.datavisualization.toolkit.pdb
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.1.3\MoneyManagement\bin\Debug\WPFToolkit.pdb
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.1.4\MoneyManagement\bin\Debug\MoneyManagement.exe.config
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.1.4\MoneyManagement\obj\Debug\MoneyManagement.exe
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.1.4\MoneyManagement\obj\Debug\MoneyManagement.pdb
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.1.4\MoneyManagement\bin\Debug\Database1.sdf
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.1.4\MoneyManagement\bin\Debug\Data\Database1.sdf
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.1.4\MoneyManagement\bin\Debug\MoneyManagement.exe
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.1.4\MoneyManagement\bin\Debug\MoneyManagement.pdb
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.1.4\MoneyManagement\bin\Debug\EntityFramework.dll
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.1.4\MoneyManagement\bin\Debug\system.windows.controls.datavisualization.toolkit.dll
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.1.4\MoneyManagement\bin\Debug\WPFToolkit.dll
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.1.4\MoneyManagement\bin\Debug\EntityFramework.xml
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.1.4\MoneyManagement\bin\Debug\system.windows.controls.datavisualization.toolkit.pdb
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.1.4\MoneyManagement\bin\Debug\WPFToolkit.pdb
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.1.4\MoneyManagement\obj\Debug\MoneyManagement.csprojResolveAssemblyReference.cache
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.1.4\MoneyManagement\obj\Debug\MainWindow.baml
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.1.4\MoneyManagement\obj\Debug\MainWindow.g.cs
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.1.4\MoneyManagement\obj\Debug\App.g.cs
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.1.4\MoneyManagement\obj\Debug\MoneyManagement_Content.g.cs
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.1.4\MoneyManagement\obj\Debug\MoneyManagement_MarkupCompile.cache
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.1.4\MoneyManagement\obj\Debug\MoneyManagement.g.resources
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.1.4\MoneyManagement\obj\Debug\MoneyManagement.Properties.Resources.resources
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.1.4\MoneyManagement\obj\Debug\MoneyManagement.csproj.GenerateResource.Cache
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.1.5\MoneyManagement\bin\Debug\MoneyManagement.exe.config
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.1.5\MoneyManagement\obj\Debug\MoneyManagement.exe
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.1.5\MoneyManagement\obj\Debug\MoneyManagement.pdb
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.1.5\MoneyManagement\bin\Debug\Database1.sdf
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.1.5\MoneyManagement\bin\Debug\Data\Database1.sdf
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.1.5\MoneyManagement\bin\Debug\MoneyManagement.exe
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.1.5\MoneyManagement\bin\Debug\MoneyManagement.pdb
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.1.5\MoneyManagement\bin\Debug\EntityFramework.dll
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.1.5\MoneyManagement\bin\Debug\system.windows.controls.datavisualization.toolkit.dll
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.1.5\MoneyManagement\bin\Debug\WPFToolkit.dll
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.1.5\MoneyManagement\bin\Debug\EntityFramework.xml
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.1.5\MoneyManagement\bin\Debug\system.windows.controls.datavisualization.toolkit.pdb
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.1.5\MoneyManagement\bin\Debug\WPFToolkit.pdb
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.1.5\MoneyManagement\obj\Debug\MoneyManagement.csprojResolveAssemblyReference.cache
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.1.5\MoneyManagement\obj\Debug\MainWindow.baml
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.1.5\MoneyManagement\obj\Debug\MainWindow.g.cs
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.1.5\MoneyManagement\obj\Debug\App.g.cs
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.1.5\MoneyManagement\obj\Debug\MoneyManagement_Content.g.cs
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.1.5\MoneyManagement\obj\Debug\MoneyManagement_MarkupCompile.cache
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.1.5\MoneyManagement\obj\Debug\MoneyManagement.g.resources
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.1.5\MoneyManagement\obj\Debug\MoneyManagement.Properties.Resources.resources
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.1.5\MoneyManagement\obj\Debug\MoneyManagement.csproj.GenerateResource.Cache
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.2.0\MoneyManagement\bin\Debug\MoneyManagement.exe.config
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.2.0\MoneyManagement\obj\Debug\MoneyManagement.exe
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.2.0\MoneyManagement\obj\Debug\MoneyManagement.pdb
+N:\__2013-03\Projects\MoneyManagement_0.0.2.1\MoneyManagement\bin\Debug\MoneyManagement.exe.config
+N:\__2013-03\Projects\MoneyManagement_0.0.2.1\MoneyManagement\obj\Debug\MoneyManagement.exe
+N:\__2013-03\Projects\MoneyManagement_0.0.2.1\MoneyManagement\obj\Debug\MoneyManagement.pdb
+N:\__2013-03\Projects\MoneyManagement_0.0.2.1\MoneyManagement\bin\Debug\Data\Database1.sdf
+N:\__2013-03\Projects\MoneyManagement_0.0.2.1\MoneyManagement\bin\Debug\MoneyManagement.exe
+N:\__2013-03\Projects\MoneyManagement_0.0.2.1\MoneyManagement\bin\Debug\MoneyManagement.pdb
+N:\__2013-03\Projects\MoneyManagement_0.0.2.1\MoneyManagement\bin\Debug\EntityFramework.dll
+N:\__2013-03\Projects\MoneyManagement_0.0.2.1\MoneyManagement\bin\Debug\EntityFramework.xml
+N:\__2013-03\Projects\MoneyManagement_0.0.2.1\MoneyManagement\bin\Debug\system.windows.controls.datavisualization.toolkit.pdb
+N:\__2013-03\Projects\MoneyManagement_0.0.2.1\MoneyManagement\bin\Debug\WPFToolkit.pdb
+N:\__2013-03\Projects\MoneyManagement_0.0.2.1\MoneyManagement\obj\Debug\MoneyManagement.csprojResolveAssemblyReference.cache
+N:\__2013-03\Projects\MoneyManagement_0.0.2.1\MoneyManagement\obj\Debug\MainWindow.baml
+N:\__2013-03\Projects\MoneyManagement_0.0.2.1\MoneyManagement\obj\Debug\MainWindow.g.cs
+N:\__2013-03\Projects\MoneyManagement_0.0.2.1\MoneyManagement\obj\Debug\App.g.cs
+N:\__2013-03\Projects\MoneyManagement_0.0.2.1\MoneyManagement\obj\Debug\MoneyManagement_Content.g.cs
+N:\__2013-03\Projects\MoneyManagement_0.0.2.1\MoneyManagement\obj\Debug\MoneyManagement_MarkupCompile.cache
+N:\__2013-03\Projects\MoneyManagement_0.0.2.1\MoneyManagement\obj\Debug\MoneyManagement.g.resources
+N:\__2013-03\Projects\MoneyManagement_0.0.2.1\MoneyManagement\obj\Debug\MoneyManagement.Properties.Resources.resources
+N:\__2013-03\Projects\MoneyManagement_0.0.2.1\MoneyManagement\obj\Debug\MoneyManagement.csproj.GenerateResource.Cache
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.2.2\MoneyManagement\bin\Debug\MoneyManagement.exe.config
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.2.2\MoneyManagement\bin\Debug\Data\Database1.sdf
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.2.2\MoneyManagement\bin\Debug\MoneyManagement.exe
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.2.2\MoneyManagement\bin\Debug\MoneyManagement.pdb
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.2.2\MoneyManagement\bin\Debug\EntityFramework.dll
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.2.2\MoneyManagement\bin\Debug\EntityFramework.xml
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.2.2\MoneyManagement\obj\Debug\MoneyManagement.csprojResolveAssemblyReference.cache
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.2.2\MoneyManagement\obj\Debug\MainWindow.baml
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.2.2\MoneyManagement\obj\Debug\MainWindow.g.cs
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.2.2\MoneyManagement\obj\Debug\App.g.cs
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.2.2\MoneyManagement\obj\Debug\MoneyManagement_Content.g.cs
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.2.2\MoneyManagement\obj\Debug\MoneyManagement_MarkupCompile.cache
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.2.2\MoneyManagement\obj\Debug\MoneyManagement.g.resources
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.2.2\MoneyManagement\obj\Debug\MoneyManagement.Properties.Resources.resources
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.2.2\MoneyManagement\obj\Debug\MoneyManagement.csproj.GenerateResource.Cache
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.2.2\MoneyManagement\obj\Debug\MoneyManagement.exe
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.2.2\MoneyManagement\obj\Debug\MoneyManagement.pdb
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.3.2\MoneyManagement\bin\Debug\MoneyManagement.exe.config
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.3.2\MoneyManagement\obj\Debug\MoneyManagement.exe
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.3.2\MoneyManagement\obj\Debug\MoneyManagement.pdb
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.3.2\MoneyManagement\bin\Debug\Data\Database1.sdf
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.3.2\MoneyManagement\bin\Debug\MoneyManagement.exe
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.3.2\MoneyManagement\bin\Debug\MoneyManagement.pdb
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.3.2\MoneyManagement\bin\Debug\EntityFramework.dll
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.3.2\MoneyManagement\bin\Debug\EntityFramework.xml
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.3.2\MoneyManagement\obj\Debug\MoneyManagement.csprojResolveAssemblyReference.cache
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.3.2\MoneyManagement\obj\Debug\MainWindow.baml
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.3.2\MoneyManagement\obj\Debug\MainWindow.g.cs
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.3.2\MoneyManagement\obj\Debug\App.g.cs
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.3.2\MoneyManagement\obj\Debug\MoneyManagement_Content.g.cs
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.3.2\MoneyManagement\obj\Debug\MoneyManagement_MarkupCompile.cache
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.3.2\MoneyManagement\obj\Debug\MoneyManagement.g.resources
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.3.2\MoneyManagement\obj\Debug\MoneyManagement.Properties.Resources.resources
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.3.2\MoneyManagement\obj\Debug\MoneyManagement.csproj.GenerateResource.Cache
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.4.1\MoneyManagement\bin\Debug\MoneyManagement.exe.config
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.4.1\MoneyManagement\obj\Debug\MoneyManagement.exe
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.4.1\MoneyManagement\obj\Debug\MoneyManagement.pdb
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.4.2\MoneyManagement\bin\Debug\MoneyManagement.exe.config
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.4.2\MoneyManagement\obj\Debug\MoneyManagement.exe
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.4.2\MoneyManagement\obj\Debug\MoneyManagement.pdb
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.4.2\MoneyManagement\bin\Debug\Data\Database1.sdf
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.4.2\MoneyManagement\bin\Debug\MoneyManagement.exe
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.4.2\MoneyManagement\bin\Debug\MoneyManagement.pdb
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.4.2\MoneyManagement\bin\Debug\EntityFramework.dll
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.4.2\MoneyManagement\bin\Debug\EntityFramework.xml
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.4.2\MoneyManagement\obj\Debug\MoneyManagement.csprojResolveAssemblyReference.cache
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.4.2\MoneyManagement\obj\Debug\MainWindow.baml
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.4.2\MoneyManagement\obj\Debug\MainWindow.g.cs
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.4.2\MoneyManagement\obj\Debug\App.g.cs
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.4.2\MoneyManagement\obj\Debug\MoneyManagement_Content.g.cs
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.4.2\MoneyManagement\obj\Debug\MoneyManagement_MarkupCompile.cache
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.4.2\MoneyManagement\obj\Debug\MoneyManagement.g.resources
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.4.2\MoneyManagement\obj\Debug\MoneyManagement.Properties.Resources.resources
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.4.2\MoneyManagement\obj\Debug\MoneyManagement.csproj.GenerateResource.Cache
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.4.4\MoneyManagement\bin\Debug\MoneyManagement.exe.config
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.4.4\MoneyManagement\obj\Debug\MoneyManagement.exe
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.4.4\MoneyManagement\obj\Debug\MoneyManagement.csprojResolveAssemblyReference.cache
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.4.4\MoneyManagement\obj\Debug\MainWindow.baml
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.4.4\MoneyManagement\obj\Debug\MainWindow.g.cs
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.4.4\MoneyManagement\obj\Debug\App.g.cs
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.4.4\MoneyManagement\obj\Debug\MoneyManagement_Content.g.cs
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.4.4\MoneyManagement\obj\Debug\MoneyManagement_MarkupCompile.cache
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.4.4\MoneyManagement\obj\Debug\MoneyManagement.g.resources
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.4.4\MoneyManagement\obj\Debug\MoneyManagement.Properties.Resources.resources
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.4.4\MoneyManagement\obj\Debug\MoneyManagement.csproj.GenerateResource.Cache
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.4.5\MoneyManagement\bin\Debug\MoneyManagement.exe.config
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.4.5\MoneyManagement\obj\Debug\MoneyManagement.exe
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.4.6\MoneyManagement\bin\Debug\MoneyManagement.exe.config
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.4.6\MoneyManagement\obj\Debug\MoneyManagement.exe
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.4.6\MoneyManagement\bin\Debug\Data\Database1.sdf
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.4.6\MoneyManagement\bin\Debug\MoneyManagement.exe
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.4.6\MoneyManagement\bin\Debug\MoneyManagement.pdb
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.4.6\MoneyManagement\bin\Debug\EntityFramework.dll
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.4.6\MoneyManagement\bin\Debug\EntityFramework.xml
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.4.6\MoneyManagement\obj\Debug\MoneyManagement.csprojResolveAssemblyReference.cache
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.4.6\MoneyManagement\obj\Debug\MainWindow.baml
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.4.6\MoneyManagement\obj\Debug\MainWindow.g.cs
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.4.6\MoneyManagement\obj\Debug\App.g.cs
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.4.6\MoneyManagement\obj\Debug\MoneyManagement_Content.g.cs
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.4.6\MoneyManagement\obj\Debug\MoneyManagement_MarkupCompile.cache
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.4.6\MoneyManagement\obj\Debug\MoneyManagement.g.resources
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.4.6\MoneyManagement\obj\Debug\MoneyManagement.Properties.Resources.resources
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.4.6\MoneyManagement\obj\Debug\MoneyManagement.csproj.GenerateResource.Cache
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.4.6\MoneyManagement\obj\Debug\MoneyManagement.pdb
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.4.7\MoneyManagement\bin\Debug\MoneyManagement.exe.config
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.4.7\MoneyManagement\obj\Debug\MoneyManagement.exe
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.4.7\MoneyManagement\obj\Debug\MoneyManagement.pdb
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.4.7\MoneyManagement\bin\Debug\Data\Database1.sdf
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.4.7\MoneyManagement\bin\Debug\MoneyManagement.exe
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.4.7\MoneyManagement\bin\Debug\MoneyManagement.pdb
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.4.7\MoneyManagement\bin\Debug\EntityFramework.dll
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.4.7\MoneyManagement\bin\Debug\EntityFramework.xml
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.4.7\MoneyManagement\obj\Debug\MoneyManagement.csprojResolveAssemblyReference.cache
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.4.7\MoneyManagement\obj\Debug\MainWindow.baml
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.4.7\MoneyManagement\obj\Debug\MainWindow.g.cs
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.4.7\MoneyManagement\obj\Debug\App.g.cs
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.4.7\MoneyManagement\obj\Debug\MoneyManagement_Content.g.cs
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.4.7\MoneyManagement\obj\Debug\MoneyManagement_MarkupCompile.cache
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.4.7\MoneyManagement\obj\Debug\MoneyManagement.g.resources
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.4.7\MoneyManagement\obj\Debug\MoneyManagement.Properties.Resources.resources
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.4.7\MoneyManagement\obj\Debug\MoneyManagement.csproj.GenerateResource.Cache
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.4.8\MoneyManagement\obj\Debug\MainWindow.baml
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.4.8\MoneyManagement\obj\Debug\MainWindow.g.cs
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.4.8\MoneyManagement\obj\Debug\App.g.cs
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.4.8\MoneyManagement\obj\Debug\MoneyManagement_Content.g.cs
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.4.8\MoneyManagement\obj\Debug\MoneyManagement_MarkupCompile.cache
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.4.8\MoneyManagement\obj\Debug\MoneyManagement.g.resources
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.4.8\MoneyManagement\obj\Debug\MoneyManagement.Properties.Resources.resources
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.4.8\MoneyManagement\obj\Debug\MoneyManagement.csproj.GenerateResource.Cache
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.4.8\MoneyManagement\bin\Debug\Data\Database1.sdf
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.4.8\MoneyManagement\bin\Debug\MoneyManagement.exe.config
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.4.8\MoneyManagement\bin\Debug\MoneyManagement.exe
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.4.8\MoneyManagement\bin\Debug\MoneyManagement.pdb
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.4.8\MoneyManagement\bin\Debug\EntityFramework.dll
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.4.8\MoneyManagement\bin\Debug\EntityFramework.xml
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.4.8\MoneyManagement\obj\Debug\MoneyManagement.exe
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.4.8\MoneyManagement\obj\Debug\MoneyManagement.pdb
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.5.1\MoneyManagement\bin\Debug\MoneyManagement.exe.config
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.5.1\MoneyManagement\obj\Debug\MoneyManagement.exe
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.5.1\MoneyManagement\obj\Debug\MoneyManagement.pdb
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.5.1\MoneyManagement\bin\Debug\Data\Database1.sdf
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.5.1\MoneyManagement\bin\Debug\MoneyManagement.exe
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.5.1\MoneyManagement\bin\Debug\MoneyManagement.pdb
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.5.1\MoneyManagement\bin\Debug\EntityFramework.dll
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.5.1\MoneyManagement\bin\Debug\EntityFramework.xml
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.5.1\MoneyManagement\obj\Debug\MoneyManagement.csprojResolveAssemblyReference.cache
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.5.1\MoneyManagement\obj\Debug\MainWindow.baml
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.5.1\MoneyManagement\obj\Debug\MainWindow.g.cs
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.5.1\MoneyManagement\obj\Debug\App.g.cs
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.5.1\MoneyManagement\obj\Debug\MoneyManagement_Content.g.cs
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.5.1\MoneyManagement\obj\Debug\MoneyManagement_MarkupCompile.cache
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.5.1\MoneyManagement\obj\Debug\MoneyManagement.g.resources
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.5.1\MoneyManagement\obj\Debug\MoneyManagement.Properties.Resources.resources
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.5.1\MoneyManagement\obj\Debug\MoneyManagement.csproj.GenerateResource.Cache
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.5.3\MoneyManagement\bin\Debug\MoneyManagement.exe.config
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.5.3\MoneyManagement\obj\Debug\MoneyManagement.exe
+N:\__2013-03\Projects\MoneyManagement\MoneyManagement_0.0.5.3\MoneyManagement\obj\Debug\MoneyManagement.pdb
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.4\MoneyManagement\bin\Debug\MoneyManagement.exe.config
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.4\MoneyManagement\obj\Debug\MoneyManagement.exe
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.4\MoneyManagement\obj\Debug\MoneyManagement.pdb
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.4\MoneyManagement\bin\Debug\Data\Database1.sdf
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.4\MoneyManagement\bin\Debug\MoneyManagement.exe
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.4\MoneyManagement\bin\Debug\MoneyManagement.pdb
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.4\MoneyManagement\bin\Debug\EntityFramework.dll
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.4\MoneyManagement\bin\Debug\system.windows.controls.datavisualization.toolkit.dll
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.4\MoneyManagement\bin\Debug\WPFToolkit.dll
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.4\MoneyManagement\bin\Debug\EntityFramework.xml
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.4\MoneyManagement\bin\Debug\system.windows.controls.datavisualization.toolkit.pdb
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.4\MoneyManagement\bin\Debug\WPFToolkit.pdb
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.4\MoneyManagement\obj\Debug\MoneyManagement.csprojResolveAssemblyReference.cache
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.4\MoneyManagement\obj\Debug\MainWindow.baml
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.4\MoneyManagement\obj\Debug\MainWindow.g.cs
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.4\MoneyManagement\obj\Debug\App.g.cs
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.4\MoneyManagement\obj\Debug\MoneyManagement_Content.g.cs
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.4\MoneyManagement\obj\Debug\MoneyManagement_MarkupCompile.cache
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.4\MoneyManagement\obj\Debug\MoneyManagement.g.resources
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.4\MoneyManagement\obj\Debug\MoneyManagement.Properties.Resources.resources
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.4\MoneyManagement\obj\Debug\MoneyManagement.csproj.GenerateResource.Cache
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.6\MoneyManagement\bin\Debug\MoneyManagement.exe.config
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.6\MoneyManagement\obj\Debug\MoneyManagement.exe
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.6\MoneyManagement\obj\Debug\MoneyManagement.pdb
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.6\MoneyManagement\obj\Debug\MainWindow.baml
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.6\MoneyManagement\obj\Debug\MainWindow.g.cs
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.6\MoneyManagement\obj\Debug\App.g.cs
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.6\MoneyManagement\obj\Debug\MoneyManagement_Content.g.cs
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.6\MoneyManagement\obj\Debug\MoneyManagement_MarkupCompile.cache
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.6\MoneyManagement\obj\Debug\MoneyManagement.g.resources
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.6\MoneyManagement\obj\Debug\MoneyManagement.Properties.Resources.resources
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.6\MoneyManagement\obj\Debug\MoneyManagement.csproj.GenerateResource.Cache
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.6\MoneyManagement\bin\Debug\Data\Database1.sdf
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.6\MoneyManagement\bin\Debug\MoneyManagement.exe
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.6\MoneyManagement\bin\Debug\MoneyManagement.pdb
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.6\MoneyManagement\bin\Debug\EntityFramework.dll
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.6\MoneyManagement\bin\Debug\system.windows.controls.datavisualization.toolkit.dll
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.6\MoneyManagement\bin\Debug\WPFToolkit.dll
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.6\MoneyManagement\bin\Debug\EntityFramework.xml
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.6\MoneyManagement\bin\Debug\system.windows.controls.datavisualization.toolkit.pdb
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.6\MoneyManagement\bin\Debug\WPFToolkit.pdb
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.7\MoneyManagement\bin\Debug\MoneyManagement.exe.config
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.7\MoneyManagement\obj\Debug\MoneyManagement.exe
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.7\MoneyManagement\obj\Debug\MoneyManagement.pdb
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.7\MoneyManagement\bin\Debug\Data\Database1.sdf
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.7\MoneyManagement\bin\Debug\MoneyManagement.exe
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.7\MoneyManagement\bin\Debug\MoneyManagement.pdb
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.7\MoneyManagement\bin\Debug\EntityFramework.dll
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.7\MoneyManagement\bin\Debug\system.windows.controls.datavisualization.toolkit.dll
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.7\MoneyManagement\bin\Debug\WPFToolkit.dll
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.7\MoneyManagement\bin\Debug\EntityFramework.xml
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.7\MoneyManagement\bin\Debug\system.windows.controls.datavisualization.toolkit.pdb
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.7\MoneyManagement\bin\Debug\WPFToolkit.pdb
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.7\MoneyManagement\obj\Debug\MoneyManagement.csprojResolveAssemblyReference.cache
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.7\MoneyManagement\obj\Debug\MainWindow.baml
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.7\MoneyManagement\obj\Debug\MainWindow.g.cs
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.7\MoneyManagement\obj\Debug\App.g.cs
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.7\MoneyManagement\obj\Debug\MoneyManagement_Content.g.cs
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.7\MoneyManagement\obj\Debug\MoneyManagement_MarkupCompile.cache
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.7\MoneyManagement\obj\Debug\MoneyManagement.g.resources
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.7\MoneyManagement\obj\Debug\MoneyManagement.Properties.Resources.resources
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.7\MoneyManagement\obj\Debug\MoneyManagement.csproj.GenerateResource.Cache
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.8\MoneyManagement\bin\Debug\MoneyManagement.exe.config
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.8\MoneyManagement\obj\Debug\MoneyManagement.exe
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.8\MoneyManagement\obj\Debug\MoneyManagement.pdb
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.8\MoneyManagement\bin\Debug\Data\Database1.sdf
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.8\MoneyManagement\bin\Debug\MoneyManagement.exe
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.8\MoneyManagement\bin\Debug\MoneyManagement.pdb
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.8\MoneyManagement\bin\Debug\EntityFramework.dll
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.8\MoneyManagement\bin\Debug\system.windows.controls.datavisualization.toolkit.dll
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.8\MoneyManagement\bin\Debug\WPFToolkit.dll
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.8\MoneyManagement\bin\Debug\EntityFramework.xml
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.8\MoneyManagement\bin\Debug\system.windows.controls.datavisualization.toolkit.pdb
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.8\MoneyManagement\bin\Debug\WPFToolkit.pdb
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.8\MoneyManagement\obj\Debug\MoneyManagement.csprojResolveAssemblyReference.cache
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.8\MoneyManagement\obj\Debug\MainWindow.baml
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.8\MoneyManagement\obj\Debug\MainWindow.g.cs
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.8\MoneyManagement\obj\Debug\App.g.cs
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.8\MoneyManagement\obj\Debug\MoneyManagement_Content.g.cs
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.8\MoneyManagement\obj\Debug\MoneyManagement_MarkupCompile.cache
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.8\MoneyManagement\obj\Debug\MoneyManagement.g.resources
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.8\MoneyManagement\obj\Debug\MoneyManagement.Properties.Resources.resources
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.8\MoneyManagement\obj\Debug\MoneyManagement.csproj.GenerateResource.Cache
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.9\MoneyManagement\bin\Debug\MoneyManagement.exe.config
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.9\MoneyManagement\obj\Debug\MoneyManagement.exe
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.9\MoneyManagement\obj\Debug\MoneyManagement.pdb
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.9\MoneyManagement\bin\Debug\Data\Database1.sdf
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.9\MoneyManagement\bin\Debug\MoneyManagement.exe
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.9\MoneyManagement\bin\Debug\MoneyManagement.pdb
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.9\MoneyManagement\bin\Debug\EntityFramework.dll
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.9\MoneyManagement\bin\Debug\system.windows.controls.datavisualization.toolkit.dll
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.9\MoneyManagement\bin\Debug\WPFToolkit.dll
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.9\MoneyManagement\bin\Debug\EntityFramework.xml
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.9\MoneyManagement\bin\Debug\system.windows.controls.datavisualization.toolkit.pdb
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.9\MoneyManagement\bin\Debug\WPFToolkit.pdb
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.9\MoneyManagement\obj\Debug\MoneyManagement.csprojResolveAssemblyReference.cache
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.9\MoneyManagement\obj\Debug\MainWindow.baml
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.9\MoneyManagement\obj\Debug\MainWindow.g.cs
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.9\MoneyManagement\obj\Debug\App.g.cs
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.9\MoneyManagement\obj\Debug\MoneyManagement_Content.g.cs
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.9\MoneyManagement\obj\Debug\MoneyManagement_MarkupCompile.cache
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.9\MoneyManagement\obj\Debug\MoneyManagement.g.resources
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.9\MoneyManagement\obj\Debug\MoneyManagement.Properties.Resources.resources
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.9\MoneyManagement\obj\Debug\MoneyManagement.csproj.GenerateResource.Cache
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.10\MoneyManagement\bin\Debug\MoneyManagement.exe.config
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.10\MoneyManagement\obj\Debug\MoneyManagement.exe
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.10\MoneyManagement\obj\Debug\MoneyManagement.pdb
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.10\MoneyManagement\bin\Debug\Data\Database1.sdf
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.10\MoneyManagement\bin\Debug\MoneyManagement.exe
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.10\MoneyManagement\bin\Debug\MoneyManagement.pdb
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.10\MoneyManagement\bin\Debug\EntityFramework.dll
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.10\MoneyManagement\bin\Debug\system.windows.controls.datavisualization.toolkit.dll
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.10\MoneyManagement\bin\Debug\WPFToolkit.dll
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.10\MoneyManagement\bin\Debug\EntityFramework.xml
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.10\MoneyManagement\bin\Debug\system.windows.controls.datavisualization.toolkit.pdb
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.10\MoneyManagement\bin\Debug\WPFToolkit.pdb
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.10\MoneyManagement\obj\Debug\MoneyManagement.csprojResolveAssemblyReference.cache
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.10\MoneyManagement\obj\Debug\MainWindow.baml
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.10\MoneyManagement\obj\Debug\MainWindow.g.cs
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.10\MoneyManagement\obj\Debug\App.g.cs
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.10\MoneyManagement\obj\Debug\MoneyManagement_Content.g.cs
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.10\MoneyManagement\obj\Debug\MoneyManagement_MarkupCompile.cache
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.10\MoneyManagement\obj\Debug\MoneyManagement.g.resources
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.10\MoneyManagement\obj\Debug\MoneyManagement.Properties.Resources.resources
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.5.10\MoneyManagement\obj\Debug\MoneyManagement.csproj.GenerateResource.Cache
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.6.1\MoneyManagement\bin\Debug\MoneyManagement.exe.config
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.6.1\MoneyManagement\obj\Debug\MoneyManagement.exe
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.6.1\MoneyManagement\obj\Debug\MoneyManagement.pdb
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.6.1\MoneyManagement\bin\Debug\Data\Database1.sdf
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.6.1\MoneyManagement\bin\Debug\MoneyManagement.exe
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.6.1\MoneyManagement\bin\Debug\MoneyManagement.pdb
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.6.1\MoneyManagement\bin\Debug\EntityFramework.dll
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.6.1\MoneyManagement\bin\Debug\system.windows.controls.datavisualization.toolkit.dll
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.6.1\MoneyManagement\bin\Debug\WPFToolkit.dll
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.6.1\MoneyManagement\bin\Debug\EntityFramework.xml
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.6.1\MoneyManagement\bin\Debug\system.windows.controls.datavisualization.toolkit.pdb
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.6.1\MoneyManagement\bin\Debug\WPFToolkit.pdb
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.6.1\MoneyManagement\obj\Debug\MoneyManagement.csprojResolveAssemblyReference.cache
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.6.1\MoneyManagement\obj\Debug\MainWindow.baml
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.6.1\MoneyManagement\obj\Debug\MainWindow.g.cs
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.6.1\MoneyManagement\obj\Debug\App.g.cs
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.6.1\MoneyManagement\obj\Debug\MoneyManagement_Content.g.cs
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.6.1\MoneyManagement\obj\Debug\MoneyManagement_MarkupCompile.cache
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.6.1\MoneyManagement\obj\Debug\MoneyManagement.g.resources
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.6.1\MoneyManagement\obj\Debug\MoneyManagement.Properties.Resources.resources
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.6.1\MoneyManagement\obj\Debug\MoneyManagement.csproj.GenerateResource.Cache
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.6.2\MoneyManagement\bin\Debug\MoneyManagement.exe.config
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.6.2\MoneyManagement\obj\Debug\MoneyManagement.exe
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.6.2\MoneyManagement\obj\Debug\MoneyManagement.pdb
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.6.2\MoneyManagement\bin\Debug\Data\Database1.sdf
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.6.2\MoneyManagement\bin\Debug\MoneyManagement.exe
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.6.2\MoneyManagement\bin\Debug\MoneyManagement.pdb
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.6.2\MoneyManagement\bin\Debug\EntityFramework.dll
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.6.2\MoneyManagement\bin\Debug\system.windows.controls.datavisualization.toolkit.dll
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.6.2\MoneyManagement\bin\Debug\WPFToolkit.dll
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.6.2\MoneyManagement\bin\Debug\EntityFramework.xml
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.6.2\MoneyManagement\bin\Debug\system.windows.controls.datavisualization.toolkit.pdb
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.6.2\MoneyManagement\bin\Debug\WPFToolkit.pdb
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.6.2\MoneyManagement\obj\Debug\MoneyManagement.csprojResolveAssemblyReference.cache
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.6.2\MoneyManagement\obj\Debug\MainWindow.baml
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.6.2\MoneyManagement\obj\Debug\MainWindow.g.cs
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.6.2\MoneyManagement\obj\Debug\App.g.cs
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.6.2\MoneyManagement\obj\Debug\MoneyManagement_Content.g.cs
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.6.2\MoneyManagement\obj\Debug\MoneyManagement_MarkupCompile.cache
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.6.2\MoneyManagement\obj\Debug\MoneyManagement.g.resources
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.6.2\MoneyManagement\obj\Debug\MoneyManagement.Properties.Resources.resources
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.6.2\MoneyManagement\obj\Debug\MoneyManagement.csproj.GenerateResource.Cache
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.6.4(B)\MoneyManagement\bin\Debug\MoneyManagement.exe.config
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.6.4(B)\MoneyManagement\obj\Debug\MoneyManagement.exe
+F:\Mehdi Programming (2012)\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.6.4(B)\MoneyManagement\obj\Debug\MoneyManagement.pdb
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.1\MoneyManagement\bin\Debug\MoneyManagement.exe.config
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.1\MoneyManagement\obj\Debug\MoneyManagement.exe
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.1\MoneyManagement\obj\Debug\MoneyManagement.pdb
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.1\MoneyManagement\bin\Debug\Data\Database1.sdf
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.1\MoneyManagement\bin\Debug\MoneyManagement.exe
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.1\MoneyManagement\bin\Debug\MoneyManagement.pdb
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.1\MoneyManagement\bin\Debug\EntityFramework.dll
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.1\MoneyManagement\bin\Debug\PersianDate.dll
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.1\MoneyManagement\bin\Debug\PersianDateControls.dll
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.1\MoneyManagement\bin\Debug\EntityFramework.xml
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.1\MoneyManagement\bin\Debug\system.windows.controls.datavisualization.toolkit.pdb
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.1\MoneyManagement\bin\Debug\WPFToolkit.pdb
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.1\MoneyManagement\obj\Debug\MoneyManagement.csprojResolveAssemblyReference.cache
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.1\MoneyManagement\obj\Debug\MainWindow.baml
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.1\MoneyManagement\obj\Debug\MainWindow.g.cs
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.1\MoneyManagement\obj\Debug\App.g.cs
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.1\MoneyManagement\obj\Debug\MoneyManagement_Content.g.cs
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.1\MoneyManagement\obj\Debug\MoneyManagement_MarkupCompile.cache
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.1\MoneyManagement\obj\Debug\MoneyManagement.g.resources
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.1\MoneyManagement\obj\Debug\MoneyManagement.Properties.Resources.resources
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.1\MoneyManagement\obj\Debug\MoneyManagement.csproj.GenerateResource.Cache
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.2\MoneyManagement\bin\Debug\MoneyManagement.exe.config
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.2\MoneyManagement\obj\Debug\MoneyManagement.exe
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.2\MoneyManagement\obj\Debug\MoneyManagement.pdb
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.2\MoneyManagement\bin\Debug\Data\Database1.sdf
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.2\MoneyManagement\bin\Debug\MoneyManagement.exe
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.2\MoneyManagement\bin\Debug\MoneyManagement.pdb
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.2\MoneyManagement\bin\Debug\EntityFramework.dll
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.2\MoneyManagement\bin\Debug\PersianDate.dll
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.2\MoneyManagement\bin\Debug\PersianDateControls.dll
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.2\MoneyManagement\bin\Debug\EntityFramework.xml
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.2\MoneyManagement\bin\Debug\system.windows.controls.datavisualization.toolkit.pdb
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.2\MoneyManagement\bin\Debug\WPFToolkit.pdb
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.2\MoneyManagement\obj\Debug\MoneyManagement.csprojResolveAssemblyReference.cache
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.2\MoneyManagement\obj\Debug\MainWindow.baml
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.2\MoneyManagement\obj\Debug\MainWindow.g.cs
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.2\MoneyManagement\obj\Debug\App.g.cs
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.2\MoneyManagement\obj\Debug\MoneyManagement_Content.g.cs
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.2\MoneyManagement\obj\Debug\MoneyManagement_MarkupCompile.cache
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.2\MoneyManagement\obj\Debug\MoneyManagement.g.resources
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.2\MoneyManagement\obj\Debug\MoneyManagement.Properties.Resources.resources
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.2\MoneyManagement\obj\Debug\MoneyManagement.csproj.GenerateResource.Cache
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.3\MoneyManagement\bin\Debug\Data\Database1.sdf
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.3\MoneyManagement\bin\Debug\MoneyManagement.exe.config
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.3\MoneyManagement\bin\Debug\MoneyManagement.exe
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.3\MoneyManagement\bin\Debug\MoneyManagement.pdb
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.3\MoneyManagement\bin\Debug\EntityFramework.dll
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.3\MoneyManagement\bin\Debug\PersianDate.dll
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.3\MoneyManagement\bin\Debug\PersianDateControls.dll
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.3\MoneyManagement\bin\Debug\EntityFramework.xml
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.3\MoneyManagement\obj\Debug\MainWindow.baml
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.3\MoneyManagement\obj\Debug\MainWindow.g.cs
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.3\MoneyManagement\obj\Debug\App.g.cs
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.3\MoneyManagement\obj\Debug\MoneyManagement_Content.g.cs
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.3\MoneyManagement\obj\Debug\MoneyManagement_MarkupCompile.cache
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.3\MoneyManagement\obj\Debug\MoneyManagement.g.resources
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.3\MoneyManagement\obj\Debug\MoneyManagement.Properties.Resources.resources
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.3\MoneyManagement\obj\Debug\MoneyManagement.csproj.GenerateResource.Cache
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.3\MoneyManagement\obj\Debug\MoneyManagement.exe
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.3\MoneyManagement\obj\Debug\MoneyManagement.pdb
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.4\MoneyManagement\bin\Debug\MoneyManagement.exe.config
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.4\MoneyManagement\obj\Debug\MoneyManagement.exe
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.4\MoneyManagement\obj\Debug\MoneyManagement.pdb
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.4\MoneyManagement\bin\Debug\Data\Database1.sdf
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.4\MoneyManagement\bin\Debug\MoneyManagement.exe
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.4\MoneyManagement\bin\Debug\MoneyManagement.pdb
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.4\MoneyManagement\bin\Debug\EntityFramework.dll
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.4\MoneyManagement\bin\Debug\PersianDate.dll
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.4\MoneyManagement\bin\Debug\PersianDateControls.dll
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.4\MoneyManagement\bin\Debug\EntityFramework.xml
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.4\MoneyManagement\obj\Debug\MoneyManagement.csprojResolveAssemblyReference.cache
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.4\MoneyManagement\obj\Debug\MainWindow.baml
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.4\MoneyManagement\obj\Debug\MainWindow.g.cs
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.4\MoneyManagement\obj\Debug\App.g.cs
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.4\MoneyManagement\obj\Debug\MoneyManagement_Content.g.cs
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.4\MoneyManagement\obj\Debug\MoneyManagement_MarkupCompile.cache
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.4\MoneyManagement\obj\Debug\MoneyManagement.g.resources
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.4\MoneyManagement\obj\Debug\MoneyManagement.Properties.Resources.resources
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.4\MoneyManagement\obj\Debug\MoneyManagement.csproj.GenerateResource.Cache
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.5\MoneyManagement\bin\Debug\MoneyManagement.exe.config
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.5\MoneyManagement\obj\Debug\MoneyManagement.exe
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.5\MoneyManagement\obj\Debug\MoneyManagement.pdb
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.5\MoneyManagement\obj\Debug\MoneyManagement.csprojResolveAssemblyReference.cache
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.5\MoneyManagement\obj\Debug\MainWindow.baml
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.5\MoneyManagement\obj\Debug\MainWindow.g.cs
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.5\MoneyManagement\obj\Debug\App.g.cs
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.5\MoneyManagement\obj\Debug\MoneyManagement_Content.g.cs
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.5\MoneyManagement\obj\Debug\MoneyManagement_MarkupCompile.cache
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.5\MoneyManagement\obj\Debug\MoneyManagement.g.resources
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.5\MoneyManagement\obj\Debug\MoneyManagement.Properties.Resources.resources
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.5\MoneyManagement\obj\Debug\MoneyManagement.csproj.GenerateResource.Cache
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.6\MoneyManagement\bin\Debug\MoneyManagement.exe.config
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.6\MoneyManagement\obj\Debug\MoneyManagement.exe
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.6\MoneyManagement\bin\Debug\Data\Database1.sdf
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.6\MoneyManagement\bin\Debug\MoneyManagement.exe
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.6\MoneyManagement\bin\Debug\MoneyManagement.pdb
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.6\MoneyManagement\bin\Debug\EntityFramework.dll
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.6\MoneyManagement\bin\Debug\PersianDate.dll
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.6\MoneyManagement\bin\Debug\PersianDateControls.dll
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.6\MoneyManagement\bin\Debug\EntityFramework.xml
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.6\MoneyManagement\obj\Debug\MoneyManagement.csprojResolveAssemblyReference.cache
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.6\MoneyManagement\obj\Debug\MainWindow.baml
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.6\MoneyManagement\obj\Debug\MainWindow.g.cs
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.6\MoneyManagement\obj\Debug\App.g.cs
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.6\MoneyManagement\obj\Debug\MoneyManagement_Content.g.cs
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.6\MoneyManagement\obj\Debug\MoneyManagement_MarkupCompile.cache
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.6\MoneyManagement\obj\Debug\MoneyManagement.g.resources
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.6\MoneyManagement\obj\Debug\MoneyManagement.Properties.Resources.resources
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.6\MoneyManagement\obj\Debug\MoneyManagement.csproj.GenerateResource.Cache
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.6\MoneyManagement\obj\Debug\MoneyManagement.pdb
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.8\MoneyManagement\bin\Debug\MoneyManagement.exe.config
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.8\MoneyManagement\obj\Debug\MoneyManagement.exe
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.8\MoneyManagement\obj\Debug\MoneyManagement.pdb
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.8\MoneyManagement\obj\Debug\MoneyManagement.csprojResolveAssemblyReference.cache
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.8\MoneyManagement\obj\Debug\MainWindow.baml
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.8\MoneyManagement\obj\Debug\MainWindow.g.cs
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.8\MoneyManagement\obj\Debug\App.g.cs
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.8\MoneyManagement\obj\Debug\MoneyManagement_Content.g.cs
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.8\MoneyManagement\obj\Debug\MoneyManagement_MarkupCompile.cache
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.8\MoneyManagement\obj\Debug\MoneyManagement.g.resources
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.8\MoneyManagement\obj\Debug\MoneyManagement.Properties.Resources.resources
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.8\MoneyManagement\obj\Debug\MoneyManagement.csproj.GenerateResource.Cache
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.8\MoneyManagement\bin\Debug\Data\Database1.sdf
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.8\MoneyManagement\bin\Debug\MoneyManagement.exe
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.8\MoneyManagement\bin\Debug\MoneyManagement.pdb
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.8\MoneyManagement\bin\Debug\EntityFramework.dll
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.8\MoneyManagement\bin\Debug\PersianDate.dll
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.8\MoneyManagement\bin\Debug\PersianDateControls.dll
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.8\MoneyManagement\bin\Debug\EntityFramework.xml
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.9\MoneyManagement\bin\Debug\MoneyManagement.exe.config
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.9\MoneyManagement\obj\Debug\MoneyManagement.exe
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.9\MoneyManagement\obj\Debug\MoneyManagement.pdb
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.9\MoneyManagement\obj\Debug\MoneyManagement.csprojResolveAssemblyReference.cache
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.9\MoneyManagement\obj\Debug\MainWindow.baml
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.9\MoneyManagement\obj\Debug\MainWindow.g.cs
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.9\MoneyManagement\obj\Debug\App.g.cs
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.9\MoneyManagement\obj\Debug\MoneyManagement_Content.g.cs
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.9\MoneyManagement\obj\Debug\MoneyManagement_MarkupCompile.cache
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.9\MoneyManagement\obj\Debug\MoneyManagement.g.resources
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.9\MoneyManagement\obj\Debug\MoneyManagement.Properties.Resources.resources
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.9\MoneyManagement\obj\Debug\MoneyManagement.csproj.GenerateResource.Cache
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.11\MoneyManagement\bin\Debug\MoneyManagement.exe.config
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.11\MoneyManagement\obj\Debug\MoneyManagement.exe
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.11\MoneyManagement\bin\Debug\Data\Database1.sdf
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.11\MoneyManagement\bin\Debug\MoneyManagement.exe
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.11\MoneyManagement\bin\Debug\MoneyManagement.pdb
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.11\MoneyManagement\bin\Debug\EntityFramework.dll
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.11\MoneyManagement\bin\Debug\PersianDate.dll
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.11\MoneyManagement\bin\Debug\PersianDateControls.dll
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.11\MoneyManagement\bin\Debug\EntityFramework.xml
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.11\MoneyManagement\obj\Debug\MoneyManagement.csprojResolveAssemblyReference.cache
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.11\MoneyManagement\obj\Debug\MainWindow.baml
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.11\MoneyManagement\obj\Debug\MainWindow.g.cs
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.11\MoneyManagement\obj\Debug\App.g.cs
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.11\MoneyManagement\obj\Debug\MoneyManagement_Content.g.cs
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.11\MoneyManagement\obj\Debug\MoneyManagement_MarkupCompile.cache
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.11\MoneyManagement\obj\Debug\MoneyManagement.g.resources
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.11\MoneyManagement\obj\Debug\MoneyManagement.Properties.Resources.resources
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.11\MoneyManagement\obj\Debug\MoneyManagement.csproj.GenerateResource.Cache
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.11\MoneyManagement\obj\Debug\MoneyManagement.pdb
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.12\MoneyManagement\bin\Debug\MoneyManagement.exe.config
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.12\MoneyManagement\obj\Debug\MoneyManagement.exe
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.12\MoneyManagement\obj\Debug\MoneyManagement.pdb
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.12\MoneyManagement\obj\Debug\MoneyManagement.csprojResolveAssemblyReference.cache
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.12\MoneyManagement\obj\Debug\MainWindow.baml
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.12\MoneyManagement\obj\Debug\MainWindow.g.cs
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.12\MoneyManagement\obj\Debug\App.g.cs
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.12\MoneyManagement\obj\Debug\MoneyManagement_Content.g.cs
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.12\MoneyManagement\obj\Debug\MoneyManagement_MarkupCompile.cache
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.12\MoneyManagement\obj\Debug\MoneyManagement.g.resources
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.12\MoneyManagement\obj\Debug\MoneyManagement.Properties.Resources.resources
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.12\MoneyManagement\obj\Debug\MoneyManagement.csproj.GenerateResource.Cache
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.12\MoneyManagement\bin\Debug\Data\Database1.sdf
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.12\MoneyManagement\bin\Debug\MoneyManagement.exe
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.12\MoneyManagement\bin\Debug\MoneyManagement.pdb
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.12\MoneyManagement\bin\Debug\EntityFramework.dll
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.12\MoneyManagement\bin\Debug\PersianDate.dll
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.12\MoneyManagement\bin\Debug\PersianDateControls.dll
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.12\MoneyManagement\bin\Debug\EntityFramework.xml
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.12\MoneyManagement\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.7.12\MoneyManagement\obj\Debug\MoneyManagement_MarkupCompile.lref
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.8.1\MoneyManagement\bin\Debug\MoneyManagement.exe.config
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.8.1\MoneyManagement\obj\Debug\MoneyManagement.exe
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.8.1\MoneyManagement\obj\Debug\MoneyManagement.pdb
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.8.1\MoneyManagement\bin\Debug\Data\Database1.sdf
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.8.1\MoneyManagement\bin\Debug\MoneyManagement.exe
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.8.1\MoneyManagement\bin\Debug\MoneyManagement.pdb
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.8.1\MoneyManagement\bin\Debug\EntityFramework.dll
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.8.1\MoneyManagement\bin\Debug\PersianDate.dll
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.8.1\MoneyManagement\bin\Debug\PersianDateControls.dll
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.8.1\MoneyManagement\bin\Debug\EntityFramework.xml
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.8.1\MoneyManagement\obj\Debug\MoneyManagement.csprojResolveAssemblyReference.cache
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.8.1\MoneyManagement\obj\Debug\MainWindow.g.cs
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.8.1\MoneyManagement\obj\Debug\App.g.cs
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.8.1\MoneyManagement\obj\Debug\MoneyManagement_Content.g.cs
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.8.1\MoneyManagement\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.8.1\MoneyManagement\obj\Debug\MoneyManagement_MarkupCompile.cache
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.8.1\MoneyManagement\obj\Debug\MoneyManagement_MarkupCompile.lref
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.8.1\MoneyManagement\obj\Debug\MainWindow.baml
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.8.1\MoneyManagement\obj\Debug\MoneyManagement.g.resources
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.8.1\MoneyManagement\obj\Debug\MoneyManagement.Properties.Resources.resources
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.8.1\MoneyManagement\obj\Debug\MoneyManagement.csproj.GenerateResource.Cache
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.8.2\MoneyManagement\bin\Debug\MoneyManagement.exe.config
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.8.2\MoneyManagement\obj\Debug\MoneyManagement.exe
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.8.2\MoneyManagement\bin\Debug\Data\Database1.sdf
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.8.2\MoneyManagement\bin\Debug\MoneyManagement.exe
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.8.2\MoneyManagement\bin\Debug\MoneyManagement.pdb
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.8.2\MoneyManagement\bin\Debug\EntityFramework.dll
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.8.2\MoneyManagement\bin\Debug\PersianDate.dll
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.8.2\MoneyManagement\bin\Debug\PersianDateControls.dll
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.8.2\MoneyManagement\bin\Debug\EntityFramework.xml
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.8.2\MoneyManagement\obj\Debug\MoneyManagement.csprojResolveAssemblyReference.cache
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.8.2\MoneyManagement\obj\Debug\MainWindow.g.cs
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.8.2\MoneyManagement\obj\Debug\App.g.cs
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.8.2\MoneyManagement\obj\Debug\MoneyManagement_Content.g.cs
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.8.2\MoneyManagement\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.8.2\MoneyManagement\obj\Debug\MoneyManagement_MarkupCompile.cache
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.8.2\MoneyManagement\obj\Debug\MoneyManagement_MarkupCompile.lref
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.8.2\MoneyManagement\obj\Debug\MainWindow.baml
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.8.2\MoneyManagement\obj\Debug\MoneyManagement.g.resources
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.8.2\MoneyManagement\obj\Debug\MoneyManagement.Properties.Resources.resources
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.8.2\MoneyManagement\obj\Debug\MoneyManagement.csproj.GenerateResource.Cache
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.8.2\MoneyManagement\obj\Debug\MoneyManagement.pdb
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.8.3\MoneyManagement\bin\Debug\MoneyManagement.exe.config
+F:\Mehdi Programming\MehdiProjects\WPF\MoneyManagement\MoneyManagement_0.0.8.3\MoneyManagement\obj\Debug\MoneyManagement.exe

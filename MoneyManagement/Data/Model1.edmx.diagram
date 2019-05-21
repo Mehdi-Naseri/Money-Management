@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="4a0161d6507b404dbb893260e96d92c2" Name="Diagram1" ZoomLevel="86">
+        <EntityTypeShape EntityType="Database1Model.Account" Width="1.5" PointX="0.75" PointY="2.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Database1Model.AccountsBalance" Width="1.5" PointX="5.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Database1Model.Transaction" Width="1.5" PointX="3" PointY="4" IsExpanded="true" />
+        <AssociationConnector Association="Database1Model.Transactions_Accounts" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="Database1Model.Reminder" Width="1.5" PointX="3.125" PointY="1.375" />
+        <AssociationConnector Association="Database1Model.Reminder_Accounts" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
